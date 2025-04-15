@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Carrinho de Compras</title>
+  <link rel="stylesheet" href="../css/style.css">
+  <link rel="stylesheet" href="../css/cart.css">
+</head>
+<body>
+  <header class="header">
+    <div class="logo">
+      <a href="../index.html"><img src="../images/logo.jpg" alt="Logo"></a>
+    </div>
+    
+    <h1>Carrinho de compras</h1>
+
+    <nav>
+      <ul>
+        <li><a href="../index.html" class="homepage-link">🏠 Início</a></li>
+        <li><a href="cart.html" class="cart-link">🛒 Carrinho</a></li>
+      </ul>
+    </nav>
+  </header>
+
+
+  <main class="main">
+    <div class="empty-cart hidden">
+      <img src="../images/shopping-cart.png" alt="Carrinho vazio" />
+      <h2>Seu carrinho está vazio!</h2>
+      <p>Você ainda não possui itens no seu carrinho.</p>
+    </div>
+
+    <div class="cart-items"></div>
+
+    <div class="cart-summary">
+      <p>Valor total dos produtos</p>
+      <h2 class="total-price">R$ 0</h2>
+      <button class="checkout-button">Finalizar compra</button>
+      <button id="clear-cart">Limpar carrinho</button>
+    </div>
+  </main>
+
+  <script src="../build/cart.js"></script>
+</body>
+</html>
