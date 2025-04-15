@@ -6,7 +6,7 @@ Most of the code uses English for variable names, functions, etc., while code co
 
 ## Project Description
 
-This is a simple and functional shopping cart built with HTML, CSS, and TypeScript. Products are stored in the browser using `localStorage`, ensuring data persistence without a backend. It includes two pages:
+This is a simple and functional shopping cart built with HTML, CSS, and TypeScript. Products are stored in the browser using localStorage, ensuring data persistence without a backend. It includes two pages:
 
 - **Home Page**: Lists available products with image, name, and price.
 - **Cart Page**: Displays added items, allows quantity adjustment, product removal, cart clearing, or completing the purchase.
@@ -20,7 +20,7 @@ This is a simple and functional shopping cart built with HTML, CSS, and TypeScri
 - ✏️ Increase or decrease product quantities
 - ❌ Remove individual items
 - 🧹 Clear the entire cart
-- 💾 Data persistence using `localStorage`
+- 💾 Data persistence using localStorage
 - ✅ Checkout with confirmation and redirection to the home page
 
 ## 🚀 How to Run the Project
@@ -43,7 +43,7 @@ This is a simple and functional shopping cart built with HTML, CSS, and TypeScri
 
 ## 👨‍💻 Author
 
-- Manoel
+- Evecleison Albuquerque do Nascimento
 
 ## 📄 License
 
