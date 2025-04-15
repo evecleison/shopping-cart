@@ -20,7 +20,7 @@ Este é um carrinho de compras simples e funcional desenvolvido com HTML, CSS e 
 - ✏️ Aumentar ou reduzir quantidade de produtos
 - ❌ Remover itens individualmente
 - 🧹 Limpar o carrinho por completo
-- 💾 Persistência com `localStorage`
+- 💾 Persistência com localStorage
 - ✅ Finalizar compra com alerta e retorno à página inicial
 
 ## 🚀 Como executar o projeto
