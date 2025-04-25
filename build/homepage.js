@@ -1,16 +1,16 @@
 "use strict";
 // Variável do tipo Product contendo os produtos disponíveis
 const products = [
-    { id: 1, name: "Samsung Galaxy", price: 1400, image: "../images/samsung-galaxy.jpg" },
-    { id: 2, name: "Computador", price: 5000, image: "../images/computer.png" },
-    { id: 3, name: "Teclado", price: 24, image: "../images/keyboard.jpg" },
-    { id: 4, name: "Placa de rede PCIe", price: 43.50, image: "../images/network-card.jpg" },
-    { id: 5, name: "Arduino Uno", price: 41.84, image: "../images/arduino.jpg" },
-    { id: 6, name: "Leitor de cartão de memória", price: 39, image: "../images/card-reader.jpg" },
-    { id: 7, name: "Notebook", price: 2997.86, image: "../images/laptop.jpg" },
-    { id: 8, name: "Roteador", price: 106.92, image: "../images/router.jpg" },
-    { id: 9, name: "Câmera digital", price: 150, image: "../images/camera.jpg" },
-    { id: 10, name: "HD interno 500 GB", price: 66.90, image: "../images/HD.jpg" }
+    { id: 1, name: "Samsung Galaxy", price: 1400, image: "/images/samsung-galaxy.jpg" },
+    { id: 2, name: "Computador", price: 5000, image: "/images/computer.png" },
+    { id: 3, name: "Teclado", price: 24, image: "/images/keyboard.jpg" },
+    { id: 4, name: "Placa de rede PCIe", price: 43.50, image: "/images/network-card.jpg" },
+    { id: 5, name: "Arduino Uno", price: 41.84, image: "/images/arduino.jpg" },
+    { id: 6, name: "Leitor de cartão de memória", price: 39, image: "/images/card-reader.jpg" },
+    { id: 7, name: "Notebook", price: 2997.86, image: "/images/laptop.jpg" },
+    { id: 8, name: "Roteador", price: 106.92, image: "/images/router.jpg" },
+    { id: 9, name: "Câmera digital", price: 150, image: "/images/camera.jpg" },
+    { id: 10, name: "HD interno 500 GB", price: 66.90, image: "/images/HD.jpg" }
 ];
 const productList = document.querySelector(".product-list");
 const searchInput = document.querySelector(".search-input");
@@ -25,7 +25,7 @@ function renderProducts(filter = "") {
         const div = document.createElement("div");
         div.className = "product";
         div.innerHTML = `
-      <img src="${product.image}" alt="${product.name}">
+      <img src=".${product.image}" alt="${product.name}">
       <div id="text">
         <h3>${product.name}</h3>
         <p>R$ ${product.price}</p>

@@ -62,7 +62,7 @@ function renderCart() {
     const div = document.createElement("div");
     div.className = "cart-item";
     div.innerHTML = `
-      <img src="../${item.image}" alt="${item.name}">
+      <img src="../..${item.image}" alt="${item.name}">
       <div class="details">
         <h3>${item.name}</h3>
         <div class="quantity-control">
