@@ -4,6 +4,8 @@
 
 Most of the code uses English for variable names, functions, etc., while code comments and textual content in the interface and pages are in Brazilian Portuguese.
 
+👉  [See the project in action](https://github.com/evecleison/shopping-cart.git)
+
 ## Project Description
 
 This is a simple and functional shopping cart built with HTML, CSS, and TypeScript. Products are stored in the browser using localStorage, ensuring data persistence without a backend. It includes two pages:
@@ -48,4 +50,4 @@ This is a simple and functional shopping cart built with HTML, CSS, and TypeScri
 ## 📄 License
 
 This project is licensed under the MIT License.  
-See the [LICENSE](https://github.com/evecleison/shopping-cart/blob/main/LICENSE) file for more details.
+See the [LICENSE](./LICENSE) file for more details.

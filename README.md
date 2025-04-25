@@ -4,6 +4,8 @@
 
 A maior parte do código utiliza nomes de variáveis, funções, etc., em inglês, enquanto os comentários do código e o conteúdo textual da interface e das páginas estão em português brasileiro.
 
+👉  [Veja o projeto em funcionamento](https://github.com/evecleison/shopping-cart.git)
+
 ## Descrição do projeto
 
 Este é um carrinho de compras simples e funcional desenvolvido com HTML, CSS e TypeScript. Os produtos são armazenados no navegador usando o localStorage, garantindo persistência dos dados sem necessidade de backend. Há duas páginas:
@@ -48,4 +50,4 @@ Este é um carrinho de compras simples e funcional desenvolvido com HTML, CSS e 
 ## 📄 Licença
 
 Este projeto está licenciado sob a licença MIT.  
-Veja o arquivo [LICENSE](https://github.com/evecleison/shopping-cart/blob/main/LICENSE)  para mais detalhes.
+Veja o arquivo [LICENSE](./LICENSE)  para mais detalhes.
