@@ -1,11 +1,12 @@
 # 🛒 Shopping Cart
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
-[![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge)]()
-[![Idioma](https://img.shields.io/badge/idioma-português%20BR-blue?style=for-the-badge)]()
+[![Status](https://img.shields.io/badge/status-finalizado-brightgreen?style=for-the-badge)]()
+[![Responsivo](https://img.shields.io/badge/Design%20Responsivo-%E2%9C%94-lightblue?style=for-the-badge)]()
+[![Deploy](https://img.shields.io/badge/Ver%20online-Projeto%20ao%20vivo-blueviolet?style=for-the-badge)](https://github.com/evecleison/shopping-cart.git)
 
 📌 This document is written in Brazilian Portuguese. For the English version, see the file [README-en.md](/README-en.md).
 
