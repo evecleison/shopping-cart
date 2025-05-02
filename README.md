@@ -6,7 +6,7 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 [![Status](https://img.shields.io/badge/status-finalizado-brightgreen?style=for-the-badge)]()
 [![Responsivo](https://img.shields.io/badge/Design%20Responsivo-%E2%9C%94-lightblue?style=for-the-badge)]()
-[![Deploy](https://img.shields.io/badge/Ver%20online-Projeto%20ao%20vivo-blueviolet?style=for-the-badge)](https://github.com/evecleison/shopping-cart.git)
+[![Deploy](https://img.shields.io/badge/Ver%20online-Projeto%20ao%20vivo-blueviolet?style=for-the-badge)](https://evecleison.github.io/shopping-cart/)
 
 📌 This document is written in Brazilian Portuguese. For the English version, see the file [README-en.md](/README-en.md).
 
